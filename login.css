@@ -1,0 +1,56 @@
+body{
+    color: black;
+    background-color:lightgrey;
+    font-size: large;
+
+}
+
+h2{
+     text-align: center; 
+    border:2px solid rgb(31, 17, 17);
+    background-color:gray;
+    padding: 10px;
+    /*margin: 20px auto;*/
+    border-radius: 5px;
+    color: white;
+    
+}
+form{
+    text-align: center;
+    margin: 0 auto;
+    padding: 100px;
+    border-radius: 10px;
+    max-width: 400px;
+}
+
+label{
+    font-weight: bold;
+    display: inline block;
+    width: 100px;
+}
+
+input{
+    border-radius: 5px;
+    border: 2px solid rgb(31, 17, 17);
+
+    padding:7px;
+    
+}
+
+button{
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: large;
+    width: 70%;
+    background-color: cadetblue;
+    color: white;
+
+
+    
+}
+
+button:hover{
+    background-color: rgb(3, 58, 58);
+}
+
